@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kirby
 
-(I dove into the nitendo character rather than the vacuum)
+(I dove into the Nintendo character rather than the vacuum)
 
 
 I am a data scientist and AI engineer. I began my professional career as a data analyst with a Marketing Research background. This allowed me to get face to face with clients every day to solve their analyst and customer experience insights needs. During that time I found and was fully mesmerized by Bert based encoder models and decided to make the jump from a statistical market researcher to a full-time data scientist and haven’t looked back! Data Scientist is such a broad term, especially now a-days, and as such I have always loved branching out and learning new skills. 
