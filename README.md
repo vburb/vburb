@@ -12,3 +12,5 @@ Throughout my career, so far, I have had the opportunities to:
 1. Create, test, and productionize QA agents for reporting dashboard insight(s) generation
 
 I love what I do and enjoy exploring new papers, techniques, and frameworks! Every day is a new challenge to tackle!
+
+[For all things me, career experience, and AI thoughts](https://kirby-nitzschke.com/)
